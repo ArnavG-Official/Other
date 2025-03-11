@@ -1,5 +1,5 @@
 # Temperature-Of-Your-CPU-Using-Raspberry-Pi
-Install python3:
+Install Python 3:
 https://www.python.org/downloads/
 
 Become Root.
